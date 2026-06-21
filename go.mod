@@ -1,4 +1,4 @@
-module github.com/immxrtalbeast/order_kafka
+module github.com/ozzus/order_kafka
 
 go 1.24.5
 
